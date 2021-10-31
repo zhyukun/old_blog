@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhyukun.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-10-31T07:43:41.878Z</updated>
+    <title>zhyukun的博客</title>
+    <updated>2021-10-31T07:50:04.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhyukun.github.io"/>
     <link rel="self" href="https://zhyukun.github.io/atom.xml"/>
     <subtitle>zhyukun的博客</subtitle>
     <logo>https://zhyukun.github.io/images/avatar.png</logo>
     <icon>https://zhyukun.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, zhyukun的博客</rights>
     <entry>
         <title type="html"><![CDATA[我，zhyukun，来做博客啦！]]></title>
         <id>https://zhyukun.github.io/post/wo-zhyukunlai-zuo-bo-ke-la/</id>
